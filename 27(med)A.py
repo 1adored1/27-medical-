@@ -1,4 +1,4 @@
-f = open('26.txt')
+f = open('')
 n = int(f.readline())
 length = []
 value = []
